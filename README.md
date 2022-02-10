@@ -1,6 +1,6 @@
 # ENSE-271-Avocado
 
-#our team members:
+# Our team members:
 # - Connor Williams
 # - Jasmeet Singh
 # - Muhammad Toor 
